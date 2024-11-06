@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep Survival Models Can Improve Long-Term Mortality Risk Estimates from Chest Radiographs"
 date:   2024-05-26
-image: "images/chest.png"
+image: "/images/chest.png"
 categories: research
 author: "Mingzhu Liu"
 venue: "MDPI Forecasting"
