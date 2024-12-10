@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Generalized Prompt Tuning: Adapting Frozen Univariate Time Series Foundation Models for Multivariate Healthcare Time Series"
+date:   2024-11-15 22:21:59 +00:00
+image: /images/chest.png
+categories: research
+author: "Mingzhu Liu"
+venue: "Machine Learning for Health 2024"
+authors: "<strong>Mingzhu Liu</strong>, Angela H. Chen, George H. Chen"
+subtitle: "Also presented at NeurIPS workshop on Time Series in the Age of Large Models"
+paper: https://arxiv.org/abs/2411.12824
+code: https://github.com/Ilovecodingforever/Gen-P-Tuning
+poster: /pdfs/ml4h_no_banner.pdf
+---
