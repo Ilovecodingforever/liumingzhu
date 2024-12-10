@@ -2,7 +2,7 @@
 layout: post
 title:  "Generalized Prompt Tuning: Adapting Frozen Univariate Time Series Foundation Models for Multivariate Healthcare Time Series"
 date:   2024-11-15 22:21:59 +00:00
-image: /images/chest.png
+image: /images/fm.png
 categories: research
 author: "Mingzhu Liu"
 venue: "Machine Learning for Health 2024"
